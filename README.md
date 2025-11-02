@@ -4,7 +4,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pragyan-vaishnav/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:pragyanjnvj@gmail.com)
 
-Welcome to my Github page! I am Pragyan and I am currently in Ist year of B.Sc(Information Technology)!  
+Welcome to my Github page! I am Pragyan and I am currently in 3rd year of B.Sc(Information Technology)!  
 <!-- ![](https://komarev.com/ghpvc/?username=Pragyan2645&style=flat) 
 <a href="https://github.com/MrStanDu33/"><img src="https://img.shields.io/github/followers/Pragyan2645?color=%234CC61E&label=GitHub%20Followers%20%3A"/></a> -->
 
